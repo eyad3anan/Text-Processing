@@ -17,3 +17,4 @@ from collections import Counter # Importing the Counter class to count the occur
 words_count = Counter(filtered_words) # it will counts the occurence of each word and put the answer in dictionary
 for word , count in words_count.items():
     print(f"{word}:{count}")
+print("My name is eyad anan")    
