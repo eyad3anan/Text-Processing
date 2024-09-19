@@ -1,3 +1,4 @@
+# Importing the libraries
 import nltk # importing the library nltk which stands for (natural Language toolkit)
 from nltk.corpus import stopwords # importing the dataset stopwords from the module corpus
 import pandas as pd 
